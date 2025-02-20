@@ -10,23 +10,23 @@ Aquí puedes encontrar información sobre mis aficiones y proyectos. Me apasiona
 - 🔨**Herramientas**: Familiaridad con herramientas de administración de sistemas y seguridad informática
 - ⚜️**Educación y formación**: Monitor de ocio y tiempo libre en los scouts
 ## Proyectos destacados
-### [Proyecto 1: Asociación Grupo Scout Alba 601](https://github.com/IXKrieger/Grupo-Scout-Alba-601)
+### [Proyecto 1: Asociación Grupo Scout Alba 601](https://gsalba601.github.io/Grupo-Alba-601/)
 - **Descripción**: Página Web de la Asociación Grupo Scout Alba 601
-- **Tecnologías utilizadas**: Wordpress y VisualStudioCode.
+- **Tecnologías utilizadas**: HTML, CSS, JavaScript, WP, VisualStudioCode.
 - 
-### [Proyecto 2: ASO](https://github.com/IXKrieger/ASIR-ASO)
-- **Descripción**: Practicas sobre la asignatura de ASO.
-- **Tecnologías utilizadas**: VirtualBox, VMWare, Windows Server, Ubuntu.
+### [Proyecto 2: Ruleta-Rusa-System32](https://github.com/Pedroriquelmee/Ruleta-Rusa-System32)
+- **Descripción**: Juego para entretenerse si una noche te aburres y no tienes mejor cosa que hacer.
+- **Tecnologías utilizadas**: Python.
 
 
-### [Proyecto 3: GBD](https://github.com/IXKrieger/ASIR-GBD)
-- **Descripción**: Consultas, subconsultas, Modelos Entidad Relación.
-- **Tecnologías utilizadas**: MySQL Workbench.
+### [Proyecto 3: CocainaExpressSL](https://pedroriquelmee.github.io/CocainaEXpressSL/)
+- **Descripción**: Trabajo final de asignatura de Lenguaje de marcas en primero de ASIR.
+- **Tecnologías utilizadas**: HTML, CSS, JavaScript
 
 
-### [Proyecto 4: SAD](https://github.com/IXKrieger/ASIR-SAD)
-- **Descripción**: Practicas sobre la asignatura de SAD
-- **Tecnologías utilizadas**: Shodan.
+### [Proyecto 4: Porfolio](https://pedroriquelmee.github.io/Porfolio/)
+- **Descripción**: Mi perfil de porfolio con información mía
+- **Tecnologías utilizadas**: HTML, CSS.
 ###
 
 <h2 align="left">Mi Spotify</h2>
